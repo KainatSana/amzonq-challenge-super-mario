@@ -3,14 +3,16 @@
 Two reinterpretation of Super Mario games - one for the web, one for desktop. Both feature smooth animations and engaging gameplay!
 
 ## 🎮 Game Versions
-## temp
+- temp hello 12345
 
 ### 1. HTML/JavaScript Version 🌐 ⭐ **Web Browser Version**
+<!-- ![HTML Game Demo](assets/mario.gif) -->
 - **Files**: `mario.html`, `mario.js`
 - **How to play**: Open `mario.html` in any web browser
 - **Perfect for**: Sharing, GitHub Pages, mobile devices, instant play
 
 ### 2. Pygame Version 🎮 ⭐ **Desktop Version**
+<!-- ![Pygame Demo](assets/mario_py.gif) -->
 - **Files**: `pygame-mario/mario_pygame.py`
 - **How to play**: `cd pygame-mario && python3 mario.py`
 - **Perfect for**: Desktop gaming, enhanced animations, professional polish
