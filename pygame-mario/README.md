@@ -1,6 +1,6 @@
 # 🍄 Smooth Super Mario - Pygame Edition
 
-A beautiful Pygame version that captures the same smooth, engaging feel as the HTML Mario game!
+Pygame version that captures the same smooth, engaging feel as the HTML Mario game!
 
 ## 🌟 What Makes This Special
 
@@ -37,7 +37,7 @@ pip install pygame
 ### Run the Game
 ```bash
 cd pygame-mario
-python3 smooth_mario_pygame.py
+python3 mario.py
 ```
 
 ### Controls
@@ -111,8 +111,8 @@ r = int(135 * (1 - ratio + shift) + 255 * ratio)
 
 ## 🎮 Try Both Versions!
 
-1. **HTML Version**: `../smooth-mario.html` - Great for sharing
-2. **Pygame Version**: `smooth_mario_pygame.py` - Great for desktop
+1. **HTML Version**: `../mario.html` - Great for sharing
+2. **Pygame Version**: `mario.py` - Great for desktop
 
 Both are fun, but the Pygame version adds extra polish and smooth animations that make it feel even more professional!
 

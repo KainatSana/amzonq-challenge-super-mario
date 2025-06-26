@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-🍄 Smooth Mario Pygame Launcher
-Launch the beautiful Pygame Mario game!
+Mario Pygame Launcher
+Launch the Pygame Mario game!
 """
 
 import subprocess
@@ -47,14 +47,14 @@ def main():
         print("✅ Pygame installed!")
     
     print()
-    print("🚀 Starting Smooth Mario Pygame Edition...")
+    print("🚀 Starting Mario Pygame Edition...")
     print("=" * 50)
     
     try:
-        subprocess.run([sys.executable, "smooth_mario_pygame.py"])
+        subprocess.run([sys.executable, "mario.py"])
     except FileNotFoundError:
         print("❌ Game file not found!")
-        print("Make sure smooth_mario_pygame.py is in this directory.")
+        print("Make sure mario.py is in this directory.")
     except KeyboardInterrupt:
         print("\n👋 Game closed. Thanks for playing!")
 

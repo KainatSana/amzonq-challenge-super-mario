@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-🍄 Smooth Super Mario - Pygame Version
-Beautiful Mario game with smooth animations, just like the HTML version!
+Super Mario - Pygame Version
+Mario game with smooth animations, just like the HTML version!
 """
 
 import pygame
@@ -269,7 +269,7 @@ class SmoothCoin:
 class SmoothMarioGame:
     def __init__(self):
         self.screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-        pygame.display.set_caption('🍄 Smooth Super Mario - Pygame Edition')
+        pygame.display.set_caption('🍄 Super Mario - Pygame Edition')
         self.clock = pygame.time.Clock()
         
         # Game objects
@@ -434,7 +434,7 @@ class SmoothMarioGame:
         pygame.display.flip()
     
     def run(self):
-        print("🍄 Smooth Super Mario - Pygame Edition")
+        print("🍄 Super Mario - Pygame Edition")
         print("=" * 40)
         print("🎮 Controls:")
         print("  Arrow Keys / WASD: Move Mario")
