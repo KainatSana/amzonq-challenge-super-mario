@@ -115,19 +115,6 @@ mario-games/
 ### Why Not Both? 🤷‍♂️
 They're both awesome! Use HTML for sharing and Pygame for desktop gaming.
 
-## 🤝 Sharing Your Games
-
-### HTML Version Sharing
-- **Send files**: Just share `mario.html` and `mario.js`
-- **GitHub Pages**: Enable Pages for online play
-- **Social media**: Share the GitHub Pages link
-- **Mobile**: Works perfectly on phones
-
-### Pygame Version Sharing
-- **Source code**: Share the `pygame-mario/` folder
-- **Executable**: Package with PyInstaller for distribution
-- **Screenshots**: Great for portfolios and demos
-
 ## 🚀 Ready to Play?
 
 ```bash
